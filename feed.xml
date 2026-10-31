@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GATO-CAST | Profesor Gato</title>
+    <link>https://luigierodri.github.io/gatocast/</link>
+    <language>es</language>
+    <description>El GATO-CAST es el podcast del Profesor Gato: análisis claros y apartidistas de las noticias que mueven a América Latina y al mundo. Economía, política y poder explicados en minutos, con datos verificados. Nuevos episodios cuando la actualidad lo pide.</description>
+    <itunes:author>Profesor Gato</itunes:author>
+    <itunes:summary>El GATO-CAST es el podcast del Profesor Gato: análisis claros y apartidistas de las noticias que mueven a América Latina y al mundo. Economía, política y poder explicados en minutos, con datos verificados. Nuevos episodios cuando la actualidad lo pide.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://luigierodri.github.io/gatocast/cover.jpg"/>
+    <image>
+      <url>https://luigierodri.github.io/gatocast/cover.jpg</url>
+      <title>GATO-CAST | Profesor Gato</title>
+      <link>https://luigierodri.github.io/gatocast/</link>
+    </image>
+    <itunes:category text="News"/>
+    <itunes:owner>
+      <itunes:name>Profesor Gato</itunes:name>
+      <itunes:email>luigiebass@gmail.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>Lula ganó: Brasil 2026</title>
+      <description>Lula ganó la elección de Brasil 2026 por un margen mínimo (51,8% vs 48,2%). Qué significa para la región, el factor Trump, y cómo quedó el mapa de América Latina entre izquierda y derecha. Análisis apartidista con datos.</description>
+      <itunes:summary>Lula ganó la elección de Brasil 2026 por un margen mínimo (51,8% vs 48,2%). Qué significa para la región, el factor Trump, y cómo quedó el mapa de América Latina entre izquierda y derecha. Análisis apartidista con datos.</itunes:summary>
+      <enclosure url="https://luigierodri.github.io/gatocast/ep/brasil.mp3" length="7535364" type="audio/mpeg"/>
+      <guid isPermaLink="false">gatocast-brasil.mp3</guid>
+      <pubDate>Mon, 26 Oct 2026 15:00:00 GMT</pubDate>
+      <itunes:duration>0:06:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>¿Por qué medio mundo te pide guardar comida?</title>
+      <description>Japón, Suecia, la Unión Europea y Estados Unidos le piden a su gente guardar comida y suministros. ¿Por qué todos a la vez? Desastres, la guerra en Europa, Irán y el petróleo… y quién produce de verdad la comida del mundo. ¿Pánico o sentido común?</description>
+      <itunes:summary>Japón, Suecia, la Unión Europea y Estados Unidos le piden a su gente guardar comida y suministros. ¿Por qué todos a la vez? Desastres, la guerra en Europa, Irán y el petróleo… y quién produce de verdad la comida del mundo. ¿Pánico o sentido común?</itunes:summary>
+      <enclosure url="https://luigierodri.github.io/gatocast/ep/comida.mp3" length="7175099" type="audio/mpeg"/>
+      <guid isPermaLink="false">gatocast-comida.mp3</guid>
+      <pubDate>Thu, 29 Oct 2026 15:00:00 GMT</pubDate>
+      <itunes:duration>0:06:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>¿Bukele invadió Haití?</title>
+      <description>El Salvador mandó más de 2,000 soldados a Haití, con el permiso de Trump. ¿Rescate o invasión? ¿De verdad funcionó el modelo Bukele y serviría en un país colapsado como Haití? Y cómo la mano dura se volvió marca en América Latina (De la Espriella, Milei). Análisis apartidista con datos verificados.</description>
+      <itunes:summary>El Salvador mandó más de 2,000 soldados a Haití, con el permiso de Trump. ¿Rescate o invasión? ¿De verdad funcionó el modelo Bukele y serviría en un país colapsado como Haití? Y cómo la mano dura se volvió marca en América Latina (De la Espriella, Milei). Análisis apartidista con datos verificados.</itunes:summary>
+      <enclosure url="https://luigierodri.github.io/gatocast/ep/bukele.mp3" length="6746343" type="audio/mpeg"/>
+      <guid isPermaLink="false">gatocast-bukele.mp3</guid>
+      <pubDate>Sat, 31 Oct 2026 20:00:00 GMT</pubDate>
+      <itunes:duration>0:05:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
