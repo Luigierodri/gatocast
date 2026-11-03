@@ -52,5 +52,15 @@
       <itunes:duration>0:05:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>No votas, pero pagas: la elección de EE.UU. y tu bolsillo</title>
+      <description>El martes 3 de noviembre hay elecciones en Estados Unidos y tú no votas… pero las pagas. Te explico, sin gritar y con calma, cómo te pegan en el bolsillo desde Latinoamérica: el nuevo impuesto del 1% a las remesas en efectivo, las deportaciones como palanca política, los aranceles que te suben todo, y el 'club' de presidentes que Trump está armando en la región (Milei, Bukele, Noboa… y la grieta de Brasil con Lula). Datos verificados y apartidista: aquí no somos de azules ni de rojos.</description>
+      <itunes:summary>El martes 3 de noviembre hay elecciones en Estados Unidos y tú no votas… pero las pagas. Te explico, sin gritar y con calma, cómo te pegan en el bolsillo desde Latinoamérica: el nuevo impuesto del 1% a las remesas en efectivo, las deportaciones como palanca política, los aranceles que te suben todo, y el 'club' de presidentes que Trump está armando en la región (Milei, Bukele, Noboa… y la grieta de Brasil con Lula). Datos verificados y apartidista: aquí no somos de azules ni de rojos.</itunes:summary>
+      <enclosure url="https://luigierodri.github.io/gatocast/ep/elecciones.mp3" length="13626312" type="audio/mpeg"/>
+      <guid isPermaLink="false">gatocast-elecciones.mp3</guid>
+      <pubDate>Tue, 03 Nov 2026 01:56:40 GMT</pubDate>
+      <itunes:duration>0:11:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
