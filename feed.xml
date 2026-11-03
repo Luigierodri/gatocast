@@ -62,5 +62,15 @@
       <itunes:duration>0:11:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>¿Todos piden la mochila? Pánico nuclear vs. la realidad</title>
+      <description>Esta semana medio mundo —y ahora México— pide armar una 'mochila de emergencia', y las redes lo conectaron con bombas nucleares. ¿Viene algo real o es puro pánico? Te lo explico con calma y datos: qué están haciendo Suecia, Alemania y Finlandia, qué hay de cierto en lo de Irán y Trump, por qué el rumor nuclear es un RUMOR, y cómo esto sí te pega en el bolsillo (petróleo y precios). Apartidista: aquí no vendemos miedo.</description>
+      <itunes:summary>Esta semana medio mundo —y ahora México— pide armar una 'mochila de emergencia', y las redes lo conectaron con bombas nucleares. ¿Viene algo real o es puro pánico? Te lo explico con calma y datos: qué están haciendo Suecia, Alemania y Finlandia, qué hay de cierto en lo de Irán y Trump, por qué el rumor nuclear es un RUMOR, y cómo esto sí te pega en el bolsillo (petróleo y precios). Apartidista: aquí no vendemos miedo.</itunes:summary>
+      <enclosure url="https://luigierodri.github.io/gatocast/ep/mochila.mp3" length="596951" type="audio/mpeg"/>
+      <guid isPermaLink="false">gatocast-mochila.mp3</guid>
+      <pubDate>Tue, 03 Nov 2026 22:59:37 GMT</pubDate>
+      <itunes:duration>0:00:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
